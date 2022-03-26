@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">ConvertOn</string>
+
+    <string name="weightunitkg">Kilo (Kg)</string>
+    <string name="weightunitgm">Gram (gm)</string>
+    <string name="weightunitlb">Pounds (lb)</string>
+    <string name="weightunitounce">Ounce</string>
+    <string name="weightunitmg">MiliGram (mg)</string>
+
+    <string name="temperatureunitc">Celsius (°C)</string>
+    <string name="temperatureunitf">Fahrenheit (°F)</string>
+    <string name="temperatureunitk">Kelvin (°K)</string>
+
+    <string name="currencyuniti">INR (₹)</string>
+    <string name="currencyunitd">US Dollar ($)</string>
+    <string name="currencyunite">Euros (€)</string>
+    <string name="currencyunitp">Pounds (£)</string>
+    <string name="currencyunitdi">Dinar (د.ج)</string>
+
+    <string name="lengthunitcm">Centimetre (cm)</string>
+    <string name="lengthunitm">Metre (m)</string>
+    <string name="lengthunitmm">MiliMetre (mm)</string>
+    <string name="lengthunitkm">Kilometre (Km)</string>
+    <string name="lengthunitfeet">Feet (ft)</string>
+    <string name="lengthunitmile">Mile (M)</string>
+    <string name="lengthunitinch">Inch (in)</string>
+
+    <string name="powerunithorseposer">Horsepower (HP)</string>
+    <string name="powerunitwatts">Watts (W)</string>
+    <string name="powerunitkilowatts">Kilowatts (kW) </string>
+
+    <string name="energyunitcalories">Food-Calories</string>
+    <string name="energyunitjoules">Joules (J)</string>
+    <string name="energyunitkilojoules">Kilojoules (kJ)</string>
+
+    <string name="velocityunitkmph">Kilometer  per Hr(Km/hr)</string>
+    <string name="velocityunitmeterpers">Meter per Sec (m/s)</string>
+    <string name="velocityunitmilesperh">Miles per Hr (M/hr)</string>
+    <string name="velocityunitfeetpers">Feet per Sec (ft/s)</string>
+
+    <string name="areaunitsqmm">Square mm</string>
+    <string name="areaunitsqm">Square m</string>
+    <string name="areaunitsqcm">Square cm</string>
+    <string name="areaunitsqkm">Square km</string>
+    <string name="areaunitsqmiles">Square miles</string>
+    <string name="areaunitsqyard">Square yards</string>
+
+    <string name="volumeunitmillilitres">Millilitre (ml)</string>
+    <string name="volumeunitlitres">Litre (l)</string>
+    <string name="volumeunitcubicmm">Cubic mm</string>
+    <string name="volumeunitcubiccm">Cubic cm</string>
+    <string name="volumeunitcubicm">Cubic m</string>
+    <string name="volumeunitcubicfeet">Cubic feet</string>
+
+
+    <string name="fuelunitmpg">Miles per Gallon (MPG)</string>
+    <string name="fuelunitmpl">Miles per Litre (MPL)</string>
+    <string name="fuelunitkml">Kilometer per Litre (KmPL)</string>
+    <string name="fuelunitlpk">Litre per 100Km (L/100km)</string>
+
+    <string name="dataunitb">Bit (b)</string>
+    <string name="dataunitby">Byte (B)</string>
+    <string name="dataunitkb">Kilobyte (KB)</string>
+    <string name="dataunitmb">Megabyte (MB)</string>
+    <string name="dataunitgb">Gigabyte (GB)</string>
+    <string name="dataunittb">Terabyte (TB)</string>
+
+    <string name="dtsunitmbps">Megabits per Second (Mbps)</string>
+    <string name="dtsunitmBps">Megabytes per Second (MBps)</string>
+    <string name="dtsunitkBps">Kilobytes per Second (KBps)</string>
+    <string name="dtsunitkbps">Kilobits per Second (Kbps)</string>
+    <string name="dtsunitgbps">Gigabits per Second (Gbps)</string>
+    <string name="dtsunitgBps">Gigabytes per Second (GBps)</string>
+
+    <string name="timeunits">Seconds (sec)</string>
+    <string name="timeunitm">Minutes (min)</string>
+    <string name="timeunith">Hours (hr)</string>
+    <string name="timeunitmo">Months ()</string>
+    <string name="timeunity">Year (yr)</string>
+
+    <string name="cookunitc">Cup </string>
+    <string name="cookunitt">Tea Spoon </string>
+    <string name="cookunitta">Table Spoon </string>
+
+    <string name="angleunitd">Degree </string>
+    <string name="angleunitr">Radian </string>
+    <string name="angleunitg">Gradian </string>
+</resources>
